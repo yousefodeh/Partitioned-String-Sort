@@ -11,4 +11,4 @@ And keep the relative position in the string as in the original string.
 
 Example:\
 input: 43512abc87241dDfe.\
-output: 12345abc12478Ddef.\
+output: 12345abc12478Ddef.
